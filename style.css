@@ -6,7 +6,7 @@
 .one{
     height: 250px;
     width: 100%;
-    background-color: red;
+    background-color:black;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -15,18 +15,18 @@
 .one div{
     width: 15%;
     height:200px;
-    background-color: aqua;
+    background-color: red;
 }
 
 .two{
     width: 100%;
-    background-color: gray;
+    background-color:lightgreen;
     padding:20px;
 }
 .two div{
     width: 20%;
     height:200px;
-    background-color: crimson;   
+    background-color: gray;   
     display:inline-block;
     margin-left: 4%;
 }
